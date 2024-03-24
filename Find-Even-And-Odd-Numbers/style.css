@@ -1,0 +1,21 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+
+.content {
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+    background-color: rgb(0, 71, 82);
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: aliceblue;
+    text-transform: capitalize;
+    border-radius: 15px;
+}
